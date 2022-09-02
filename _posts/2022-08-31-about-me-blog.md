@@ -2,7 +2,7 @@
 
 My name is Avery Pfeiffer (_she/her/hers_) and I am currently a senior majoring in Social Work at Christopher Newport University. 
 
-(Pic of me)
+![Alt Text](https://averylayne01.github.io/averylayne01/images/profile.jpg)
 
 Before I found my way to CNU as a sophomore, I attended a school in West Virginia called West Liberty University where I studied zooscience. Now I know what you might be thinking, “_that’s a lot different than social work_”, and you would be right, but I learned a lot during my year at West liberty.
 
