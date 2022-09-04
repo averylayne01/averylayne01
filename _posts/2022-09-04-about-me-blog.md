@@ -2,7 +2,7 @@
 
 My name is Avery (_she/her/hers_) and I am currently a senior majoring in Social Work at Christopher Newport University. 
 
-![girl smiling holding a white cat](https://github.com/averylayne01/averylayne01/blob/7dd5cc65fa8b015c3b3faa9c84eef513a276b2f3/images/rudy.jpg)
+![girl smiling holding a white cat](https://averylayne01.github.io/averylayne01/images/rudy.jpg)
 
 ## Finding My Major
 
@@ -24,7 +24,7 @@ My dad was in the Marine Corps, making me a military brat _(meaning the child of
 
 A value to me that also plays into my love for social work is family. It is so important having people support and love you, blood related or not, having an effective support system is a big aspect social workers look for when helping individuals or groups. I want to help people find their family whether that be with family members or friends. I also love interacting with families and individuals from all different places.
 
-![Dauphin Island sunset on the horizon of the ocean](https://github.com/averylayne01/averylayne01/blob/d01afe2449985260955a93b6606427d085f91cf8/images/sunset.jpg) 
+![Dauphin Island sunset on the horizon of the ocean](https://averylayne01.github.io/averylayne01/images/sunset.jpg) 
 
 I love when we do family vacations and/or experience new places together. One of my family's favorite vacation spots is Dauphin Island, AL (pictured above). It is a tiny, beautiful island on the gulf of Mexico. The water is perfect! I got to water ski with dolphins, while terrifying, it was an amazing experience. But my favorite part is that it is the one time we get to see my extended family (half my family is from AL) all together, which makes Dauphin Island so important to me! 
 
