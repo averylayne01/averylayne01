@@ -8,27 +8,28 @@ My name is Avery (_she/her/hers_) and I am currently a senior majoring in Social
 
 Before I found my way to CNU as a sophomore, I attended a school in West Virginia called West Liberty University where I studied zooscience. Now I know what you might be thinking, “_that’s a lot different than social work_”, and you would be right, but I learned a lot during my year at West liberty.
 
-I tend to be pretty stubborn, so my whole life I was set on working with animals, but while I am still extremely passionate about animals, it was not something that enjoyed studying. I still **LOVE** cats! During this time I had to reevaluate what I wanted to get out of my education and where I see myself in the future. This is how I found my way to social work and I am so grateful to have had the chance to have found this major and all it encompasses.
+I tend to be pretty stubborn, so my whole life I was set on working with animals, but while I am still extremely passionate about animals, it was not something that enjoyed studying. During this time I had to reevaluate what I wanted to get out of my education and where I see myself in the future. This is how I found my way to social work and I am so grateful to have had the chance to have found this major and all it encompasses.
 
 I gravitated towards the social work major not just because I love helping people but because of so many factors. Social work is such a broad term that encompasses so many different people, cultures, occupations, and experiences. Social work gives me the chance to interact with all different kinds of people and learn so many new things. I also have so many options and possibilities after I get my degree so I don’t feel any limitations. I feel empowered through social work because you are giving hope to individuals and communities who may not have a lot of hope left. 
 
-## Social Work and Values
+## My Values in Social Work
 
 ### Experience
 
-Over the summer I have relearned to love reading. I used to think I hated it because of the books we had to read for school, but I have come to realise that I didn't like all the limitations that followed reading. I could only read a certain amount of pages, I couldn't read at my own pace, I wasn't allowed to choose what I read. This feeling of being trapped and held back by limitations translated into my love for social work because there are so many possibilities, paths, choices, and you can do so much with a social work degree. I love the idea of being able to choose something different along the way and changing it on my own terms. Having such a broad profession gives me the ability to constantly gain new knowledge and expierences which are things that I value and want in my career. Also, I am currently reading _The Seven Husbands of Evelyn Hugo_; I highly reccomend it! 
+I hate the feeling of being stuck and held back by limitations which translated into my love for social work because there are so many possibilities, paths, choices, and you can do so much with a social work degree. I love the idea of being able to choose something different along the way and changing it on my own terms. Having such a broad profession gives me the ability to constantly gain new knowledge and expierences which are things that I value and want in my career. Also, I am currently reading _The Seven Husbands of Evelyn Hugo_; I highly reccomend it! 
 
 ### Culture 
 
 My dad was in the Marine Corps, making me a military brat _(meaning the child of someone in the military)_, so I have lived all over the country. I’ve lived in California, Alabama, North Carolina, Louisiana, Virginia, and Texas. Lousiana was definitely my favorite because the culture there is so unique and the food is **AMAZING**! Because I have experienced so many different cultures throughout my life, my desire to learn and understand more about the different cultures and people in our world has become one of my biggest values and plays a huge role in why I love social work. In social work you are going to work with populations you may not be familiar with so it is important that you are open minded and willing to educate yourself about the cultures you may come across. 
 
-### Family and Travel
+### Family
 
-A value to me that also plays into my love for social work is family. It is so important having people support and love you, blood related or not, having an effective support system is a big aspect social workers look for when helping individuals or groups. I want to help people find their family whether that be with family members or friends. I also love interacting with families and individuals from all different places.
+It is so important having people support and love you, blood related or not, having an effective support system is a big aspect social workers look for when helping individuals or groups. I want to help people find their family whether that be with family members or friends. I also love interacting with families and individuals from all different places.
+
 
 ![Dauphin Island sunset on the horizon of the ocean](https://averylayne01.github.io/averylayne01/images/sunset.jpg) 
 
-I love when we do family vacations and/or experience new places together. One of my family's favorite vacation spots is Dauphin Island, AL (pictured above). It is a tiny, beautiful island on the gulf of Mexico. The water is perfect! I got to water ski with dolphins, while terrifying, it was an amazing experience. But my favorite part is that it is the one time we get to see my extended family (half my family is from AL) all together, which makes Dauphin Island so important to me! 
+I love when we do family vacations and/or experience new places together. One of my family's favorite vacation spots is Dauphin Island, AL (pictured above). It is a tiny, beautiful island on the gulf of Mexico. It is the one time we get to see my extended family all together, which makes Dauphin Island so special to me! 
 
 ## Digital Humanities 
 
