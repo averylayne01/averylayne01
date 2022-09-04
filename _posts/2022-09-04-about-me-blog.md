@@ -24,7 +24,7 @@ My dad was in the Marine Corps, making me a military brat _(meaning the child of
 
 ### Family
 
-It is so important having people support and love you, blood related or not, having an effective support system is a big aspect social workers look for when helping individuals or groups. I want to help people find their family whether that be with family members or friends. I also love interacting with families and individuals from all different places.
+It is so important having people support and love you, blood related or not, having an effective support system is a big aspect social workers look for when helping individuals or groups. I value the time I get to have with my family and friends and I am grateful for the memories I have made, so I want to help people find their family who will support and love them. I also love interacting with families and individuals from all different places.
 
 
 ![Dauphin Island sunset on the horizon of the ocean](https://averylayne01.github.io/averylayne01/images/sunset.jpg) 
