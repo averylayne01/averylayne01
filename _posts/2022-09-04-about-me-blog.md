@@ -16,7 +16,7 @@ I gravitated towards the social work major not just because I love helping peopl
 
 ### Experience
 
-I hate the feeling of being stuck and held back by limitations which translated into my love for social work because there are so many possibilities, paths, choices, and you can do so much with a social work degree. I love the idea of being able to choose something different along the way and changing it on my own terms. Having such a broad profession gives me the ability to constantly gain new knowledge and expierences which are things that I value and want in my career. Also, I am currently reading _The Seven Husbands of Evelyn Hugo_; I highly reccomend it! 
+I hate the feeling of being stuck and held back by limitations which translated into my love for social work because there are so many possibilities, paths, choices, and you can do so much with a social work degree. I love the idea of being able to choose something different along the way and changing it on my own terms. Having such a broad profession gives me the ability to constantly gain new knowledge and expierences which are things that I value and want in my career. 
 
 ### Culture 
 
