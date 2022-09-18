@@ -50,7 +50,7 @@ A big portion of this project is the maps. There are two interactive maps. One s
 
 ## Conclusion
 
-In coclusion, I think this project is very beneficial to everyone. I think it is important for everyone to learn more about the history of lynching and mob violence, as well as some of the important historical figures who played a role during this time. While this project had flaws and could use some improvements to make it more accessible, it did a great job incorporating history and human geography into an interactive learning experience for anyone who wants to learn more! 
+In conclusion, I think this project is very beneficial to everyone. I think it is important for everyone to learn more about the history of lynching and mob violence, as well as some of the important historical figures who played a role during this time. While this project had flaws and could use some improvements to make it more accessible, it did a great job incorporating history and human geography into an interactive learning experience for anyone who wants to learn more! 
 
 
 
