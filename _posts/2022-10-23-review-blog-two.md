@@ -25,8 +25,6 @@ One of the first things that stood out to me and I really liked about this proje
  
 The visuals consist of various forms of media ranging from photos to texts to maps. The project does a fairly good job of keeping these visuals organized by category. When you click on an image, more information regarding the specific visual pops up, giving the reader more context as to why the picture is important. It is nice that the text is not always visible so that the screen does not get too crowded. 
 
-(pic here)?
-
 I also think that it is really cool that with every picture, a link to a lesson plan for a teacher is provided. I think this is a great feature that encourages teachers to educate their students about this important topic.
 
 ![screenshot of the lesson link in the text](https://averylayne01.github.io/averylayne01/images/lessonlink.png)
@@ -76,7 +74,11 @@ The game option is a cool and unique feature I came across. It gives you a chanc
 I have mentioned several aspects of this project that could be improved like some technical features and text size as well as things this project did well. There are other areas that I think can be improved. While the visual aspect is really nice and helpful, especially for a visual learner, the pictures sometimes felt cramped on the screen. I think that if they broke it up or spaced it out it would have made it a little less overwhelming. 
 I wish that the project had the option to switch languages so that more people could enjoy the project and the content that it offers. This would have made it more accessible for other people who would like to explore the project. 
 
-I also would have liked an option to enlarge the text and the pictures at the same time. As I mentioned, the text throughout this project is really small, making it hard to read for someone who may not be able to see very well. When you click on the pictures it expands them but covers the text. I think if there was an option to expand the picture and the text side by side, it would make the information feel more connected with what is being displayed in the visual. 
+I also would have liked an option to enlarge the text and the pictures at the same time. As I mentioned, the text throughout this project is really small, making it hard to read for someone who may not be able to see very well. When you click on the pictures it expands them but covers the text. I think if there was an option to expand the picture and the text side by side, it would make the information feel more connected with what is being displayed in the visual.
+
+If you hold your cursor over the text, a text box will sometimes pop up. It will say the same thing as the actual text and block the text. Im unsure as to why this happens. I can be distracting
+
+![text box blocking actual text on the page](https://averylayne01.github.io/averylayne01/images/overlaptxt.png)
 
 I learned a lot about the history of anti-slavery in Brooklyn while exploring this project. They had a lot of really good information and context behind each visual. However, the paragraphs felt lengthy at times, especially with the small text, I found it difficult to stay focused. Along with expanding the text size, they could also separate the paragraphs a little more. 
 
