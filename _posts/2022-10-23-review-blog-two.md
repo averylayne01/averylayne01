@@ -11,7 +11,7 @@ http://pursuitoffreedom.org/
 
 ## A Purpose 
 
-The purpose of “In Pursuit of Freedom” is to highlight and give credit to abolitionists and anti-slavery abolitionists from Brooklyn, whose contributions to the city and nation were often forgotten. This project discusses the history of slavery in Brooklyn, NY, and how the individuals who fought for change impacted our society. These abolitionists (**radical activist who calls for an immediate end to slavery, and political and legal equality for African Americans, and denounces colonization schemes _[definition from the project]_**) came from all walks of life. These individuals could be man or woman, Black or White, educators, homeowners, etc. From 1783-1865, Brooklyn went from an agricultural slaveholding capital to the third-largest city fueled by the business of slavery. Because of this shift, the abolitionists and activists created networks at the local, regional, and national levels.
+The purpose of “In Pursuit of Freedom” is to highlight and give credit to abolitionists and anti-slavery activists from Brooklyn, whose contributions to the city and nation were often forgotten. This project discusses the history of slavery in Brooklyn, NY, and how the individuals who fought for change impacted our society. These abolitionists (**radical activist who calls for an immediate end to slavery, and political and legal equality for African Americans, and denounces colonization schemes _[definition from the project]_**) came from all walks of life. These individuals could be man or woman, Black or White, educators, homeowners, etc. From 1783-1865, Brooklyn went from an agricultural slaveholding capital to the third-largest city fueled by the business of slavery. Because of this shift, the abolitionists and activists created networks at the local, regional, and national levels.
 
 ## The Technology
 
@@ -76,7 +76,7 @@ I wish that the project had the option to switch languages so that more people c
 
 I also would have liked an option to enlarge the text and the pictures at the same time. As I mentioned, the text throughout this project is really small, making it hard to read for someone who may not be able to see very well. When you click on the pictures it expands them but covers the text. I think if there was an option to expand the picture and the text side by side, it would make the information feel more connected with what is being displayed in the visual.
 
-If you hold your cursor over the text, a text box will sometimes pop up. It will say the same thing as the actual text and block the text. Im unsure as to why this happens. I can be distracting
+If you hold your cursor over the text, a text box will sometimes pop up. It will say the same thing as the actual text and block the text. Im unsure as to why this happens. It can be distracting.
 
 ![text box blocking actual text on the page](https://averylayne01.github.io/averylayne01/images/overlaptxt.png)
 
